@@ -76,7 +76,7 @@ export TMPFILE=`mktemp -t`;
 
 
 # system compiler
-export CROSS_COMPILE=/media/Cache/aarch64-linux-android-4.9/bin/aarch64-linux-android-
+export CROSS_COMPILE=/media/Cache/SaberMod-aarch64-linux-android-5.3-kernel/bin/aarch64-
 
 
 # CPU Core
